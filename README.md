@@ -225,6 +225,7 @@ Available themes.
 | [dark_dimmed](#dark_dimmed) |
 | [dark_lover](#dark_lover)   |
 | [kimbie_dark](#kimbie_dark) |
+| [blueawe](#blueawe)         |
 
 ### flat
 
@@ -455,6 +456,12 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
 </p>
+
+### blueawe
+
+```
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=blueawe
+```
 
 ## Margin Width
 
